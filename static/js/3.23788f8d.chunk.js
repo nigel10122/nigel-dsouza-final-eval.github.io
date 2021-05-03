@@ -1,0 +1,2 @@
+(this["webpackJsonpnigel-final-evaluation"]=this["webpackJsonpnigel-final-evaluation"]||[]).push([[3],{66:function(e,t,n){"use strict";n.r(t);var a=n(13),i=n(14),c=n(18),r=n(17),s=n(1),u=n(32),j=n(11),l=n(0),o=function(e){Object(c.a)(n,e);var t=Object(r.a)(n);function n(){return Object(a.a)(this,n),t.apply(this,arguments)}return Object(i.a)(n,[{key:"render",value:function(){return Object(l.jsxs)("div",{children:[Object(l.jsx)(u.a,{}),Object(l.jsx)(j.a,{})]})}}]),n}(s.Component);t.default=o}}]);
+//# sourceMappingURL=3.23788f8d.chunk.js.map
